@@ -8,5 +8,4 @@ I am a **Biomedical Informatics undergraduate** with a strong interest in **AI, 
 - **AI & Machine Learning:** CLIP, MedCLIP, Contrastive Learning, Image Processing  
 - **Biomedical Technology:** Signal Processing, Dynamic Systems Modeling, SPSS  
 
-📌 **GitHub:** [kimneonkook](https://github.com/kimneonkook)  
-📩 **Email:** stratinavoskou@gmail.com  
+📌 **Linkedin:** [stratoula voskou](https://www.linkedin.com/in/stratoula-voskou-4854b9333/) 
